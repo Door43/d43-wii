@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wii:home|Door43 (wii)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wii|d43-wii repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wii/archive/master.zip|d43-wii.zip]]
+
+**Recent Changes**
+{{changes>ns = wii}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wii|Ethnologue data]]
+
